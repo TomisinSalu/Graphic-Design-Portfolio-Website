@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.f8a83f9c.css",
+    "main.js": "/react-gh-pages/static/js/main.3503e64b.js",
+    "static/media/vroy.jpg": "/react-gh-pages/static/media/vroy.0adcb66cd3084acb5c21.jpg",
+    "static/media/dsavage.jpg": "/react-gh-pages/static/media/dsavage.ea792dd0fdd1d8a939f7.jpg",
+    "static/media/burna.jpg": "/react-gh-pages/static/media/burna.4e95a7dbc37659d564b7.jpg",
+    "static/media/donda.jpg": "/react-gh-pages/static/media/donda.a58328a5f98e53a3427f.jpg",
+    "static/media/BITF.jpg": "/react-gh-pages/static/media/BITF.3ef973d44a10083f79b2.jpg",
+    "static/media/Ohgeesy.jpg": "/react-gh-pages/static/media/Ohgeesy.c978a8d4a114b50f4a26.jpg",
+    "static/media/Poster.jpg": "/react-gh-pages/static/media/Poster.38a794e522c41ee64299.jpg",
+    "static/media/Logo.jpg": "/react-gh-pages/static/media/Logo.40b3a0715f7625bc9186.jpg",
+    "static/media/playboy.jpg": "/react-gh-pages/static/media/playboy.b109819cb6421f44deda.jpg",
+    "static/media/AC Hoodie mockup.jpg": "/react-gh-pages/static/media/AC Hoodie mockup.a6d49922e85bf0e1491e.jpg",
+    "static/media/dsavage poster mockup.jpg": "/react-gh-pages/static/media/dsavage poster mockup.114f7513344c21b2da81.jpg",
+    "static/media/monster.jpg": "/react-gh-pages/static/media/monster.64011d1ca89da321d1bd.jpg",
+    "static/media/Mike.jpg": "/react-gh-pages/static/media/Mike.d9f9c93c7a228c5fa0a0.jpg",
+    "static/media/arabic tee.jpg": "/react-gh-pages/static/media/arabic tee.bdf8f9692bdecc7475d8.jpg",
+    "static/media/GSTR.jpg": "/react-gh-pages/static/media/GSTR.77d9f06fc6fd07e263a5.jpg",
+    "static/media/vit.png": "/react-gh-pages/static/media/vit.668f12022291aafa0dc1.png",
+    "static/media/twisted shirt.png": "/react-gh-pages/static/media/twisted shirt.302996edcbf1efd46002.png",
+    "static/media/Glow.png": "/react-gh-pages/static/media/Glow.5aa5823821205f1ae234.png",
+    "static/media/portfolio-bg.jpg": "/react-gh-pages/static/media/portfolio-bg.956de89e936c1d984ee7.jpg",
+    "static/media/BCC shirt.jpg": "/react-gh-pages/static/media/BCC shirt.cf361d272f5560b14d21.jpg",
+    "static/media/Graphic Portfolio.jpg": "/react-gh-pages/static/media/Graphic Portfolio.53b2baec728a301dde64.jpg",
+    "static/media/TS-logo.png": "/react-gh-pages/static/media/TS-logo.02e4bf3f33064d24687a.png",
+    "static/media/malboro design.jpg": "/react-gh-pages/static/media/malboro design.b708013f98df3bde483b.jpg",
+    "static/media/MDNT Trucker.jpg": "/react-gh-pages/static/media/MDNT Trucker.8303bc0563a0708f0766.jpg",
+    "static/media/MonumentExtended-Regular.otf": "/react-gh-pages/static/media/MonumentExtended-Regular.db74f7a563ec017311bc.otf",
+    "index.html": "/react-gh-pages/index.html",
+    "main.f8a83f9c.css.map": "/react-gh-pages/static/css/main.f8a83f9c.css.map",
+    "main.3503e64b.js.map": "/react-gh-pages/static/js/main.3503e64b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8a83f9c.css",
+    "static/js/main.3503e64b.js"
+  ]
+}
